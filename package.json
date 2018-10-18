@@ -1,0 +1,27 @@
+{
+  "name": "pacote-npm-teste",
+  "description": "Descrição sobre o pacote",
+  "readmeFilename": "README.md" ,
+  "keywords": [
+    "teste npm"
+  ],
+  "tags": [
+    "minhas",
+    "tags"
+  ],
+  "version": "0.0.1",
+  "author": {
+    "name": "Alex Machado",
+    "email": "alex_mfarias@hotmail.com",
+    "homepage": "http://www.alexmachado.com.br"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexmfs/npm.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "main": "index.js"
+}
